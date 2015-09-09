@@ -1,7 +1,7 @@
 {
   "name": "tel-link",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create a tel protocol link",
   "license": "MIT",
   "repository": "bendrucker/tel-link",
