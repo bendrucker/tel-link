@@ -1,4 +1,4 @@
-# tel-link [![Build Status](https://travis-ci.org/bendrucker/tel-link.svg?branch=master)](https://travis-ci.org/bendrucker/tel-link)
+# tel-link [![Build Status](https://travis-ci.org/bendrucker/tel-link.svg?branch=master)](https://travis-ci.org/bendrucker/tel-link) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/tel-link.svg)](https://greenkeeper.io/)
 
 > Create a tel protocol link
 
